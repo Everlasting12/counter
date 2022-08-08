@@ -33,6 +33,4 @@ function IncrementCountenWhenCliked() {
   };
 }
 
-// trying to edit code but
-//sending pull requst
-//  addded one more comment
+
