@@ -37,6 +37,7 @@ class Rectangle extends Shape {
 let circle = new Circle(7);
 let sqr = new Square(7);
 let rect = new Rectangle(8, 9);
+let rect1 = new Rectangle(10, 7);
 
 circle.area();
 sqr.area();
